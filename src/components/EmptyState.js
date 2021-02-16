@@ -4,7 +4,7 @@ import Styles from '../styles.css';
 
 const EmptyState = () => (
   <article className={Styles.emptystate}>
-    <h1>Welcome v2</h1>
+    <h1>Welcome v3</h1>
     <p>
       Select a note from the sidebar to get started.
     </p>
